@@ -34,7 +34,7 @@ This dataset was taken from the UCI Machine Learning repository and cleaned in p
  * t: Time domain signal features.
  * f: Frequency domain signal features.
  
- Refer to the domain before or after the application of a fast Fouryyyier transform.w
+ Refer to the domain before or after the application of a fast Fourier transform.
 
 ## Pre-processing (tidying) procedure
 
