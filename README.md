@@ -1,5 +1,4 @@
 # Getting and Cleaning Data
-=========================================
 Written by: Rohil Narula (https://github.com/rohilrl)
 
 ## Project description
@@ -26,6 +25,6 @@ Written by: Rohil Narula (https://github.com/rohilrl)
 
 1. Download the data from [Dataset.zip](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip). This data is taken from the [UCI Machine Learning repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 2. Extract the data folder into your working directory (folder in which the script is placed).
-3. Run the script 'run_analysis.R' through R.
+3. Run the script `run_analysis.R` through R.
 4. The dataset will be saved as a tab-delimited text file `tidydata.txt`
 
